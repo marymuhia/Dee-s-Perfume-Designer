@@ -1,0 +1,6 @@
+2020-08-17T07:56:33+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\wperfume\wordpress\wp-content\plugins\woocommerce\packages\woocommerce-blocks\src\Payments\PaymentMethodRegistry.php on line 168
+
+2020-08-17T07:56:47+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\wperfume\wordpress\wp-content\plugins\woo-cart-abandonment-recovery\modules\cart-abandonment\class-cartflows-ca-cart-abandonment.php on line 2262
+
+2020-08-17T07:57:29+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\wperfume\wordpress\wp-admin\includes\class-wp-screen.php on line 1353
+

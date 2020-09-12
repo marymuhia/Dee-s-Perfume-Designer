@@ -1,0 +1,18 @@
+2020-08-25T09:54:12+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\wperfume\wordpress\wp-content\plugins\jetpack\modules\verification-tools\verification-tools-utils.php on line 8
+
+2020-08-25T18:42:43+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\wperfume\wordpress\wp-content\plugins\facebook-for-woocommerce\vendor\skyverge\wc-plugin-framework\woocommerce\compatibility\class-sv-wc-order-compatibility.php on line 27
+
+2020-08-25T20:57:31+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\wperfume\wordpress\wp-content\plugins\woocommerce\packages\woocommerce-admin\src\Notes\NoteTraits.php on line 12
+
+2020-08-25T20:57:49+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\wperfume\wordpress\wp-content\plugins\woocommerce\includes\data-stores\class-wc-webhook-data-store.php on line 212
+
+2020-08-25T20:57:49+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\wperfume\wordpress\wp-includes\assets\script-loader-packages.php on line 1
+
+2020-08-25T20:57:49+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\wperfume\wordpress\wp-includes\assets\script-loader-packages.php on line 1
+
+2020-08-25T20:57:49+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\wperfume\wordpress\wp-includes\class-wp-dependency.php on line 95
+
+2020-08-25T20:57:51+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\wperfume\wordpress\wp-includes\wp-db.php on line 2033
+
+2020-08-25T20:58:03+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\wperfume\wordpress\wp-admin\includes\template.php on line 12
+

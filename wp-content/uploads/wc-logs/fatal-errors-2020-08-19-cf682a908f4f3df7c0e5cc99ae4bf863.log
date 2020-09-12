@@ -1,0 +1,4 @@
+2020-08-19T05:16:24+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\wperfume\wordpress\wp-content\plugins\facebook-for-woocommerce\facebook-commerce.php on line 15
+
+2020-08-19T05:41:53+00:00 CRITICAL Out of memory (allocated 12582912) (tried to allocate 147456 bytes) in C:\xampp\htdocs\wperfume\wordpress\wp-admin\admin-ajax.php on line 39
+

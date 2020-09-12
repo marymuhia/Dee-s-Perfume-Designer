@@ -1,0 +1,26 @@
+2020-08-24T07:47:49+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\wperfume\wordpress\wp-content\plugins\wpforms-lite\src\Integrations\IntegrationInterface.php on line 28
+
+2020-08-24T08:22:25+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\wperfume\wordpress\wp-includes\wp-db.php on line 2033
+
+2020-08-24T11:43:42+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\wperfume\wordpress\wp-admin\includes\template.php on line 12
+
+2020-08-24T12:22:07+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\wperfume\wordpress\wp-content\plugins\woocommerce\packages\woocommerce-admin\src\Loader.php on line 1193
+
+2020-08-24T12:22:37+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\wperfume\wordpress\wp-content\plugins\woocommerce-services\classes\class-wc-connect-service-schemas-validator.php on line 3
+
+2020-08-24T12:52:51+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\wperfume\wordpress\wp-content\plugins\facebook-for-woocommerce\vendor\skyverge\wc-plugin-framework\woocommerce\admin\abstract-sv-wc-plugin-admin-setup-wizard.php on line 26
+
+2020-08-24T12:53:38+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\wperfume\wordpress\wp-admin\includes\bookmark.php on line 331
+
+2020-08-24T12:53:48+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\wperfume\wordpress\wp-admin\includes\template.php on line 12
+
+2020-08-24T14:01:09+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\wperfume\wordpress\wp-content\plugins\woocommerce\packages\woocommerce-admin\src\Notes\WC_Admin_Notes_Install_JP_And_WCS_Plugins.php on line 14
+
+2020-08-24T14:01:22+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\wperfume\wordpress\wp-content\themes\astra\inc\blog\blog.php on line 8
+
+2020-08-24T18:12:53+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\wperfume\wordpress\wp-content\plugins\woocommerce\packages\woocommerce-blocks\src\BlockTypes\AttributeFilter.php on line 10
+
+2020-08-24T18:12:53+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\wperfume\wordpress\wp-content\plugins\woocommerce\packages\woocommerce-blocks\src\BlockTypes\AttributeFilter.php on line 10
+
+2020-08-24T18:34:47+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\wperfume\wordpress\wp-includes\class-wp-theme.php on line 1202
+
